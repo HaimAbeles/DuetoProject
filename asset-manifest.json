@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.91a98778.css",
-    "main.js": "/static/js/main.58a24e67.js",
-    "static/media/hero.png": "/static/media/hero.a0f437e521766a5f98f2.png",
-    "static/media/Pattaya-Regular.ttf": "/static/media/Pattaya-Regular.5f92ed08a11ef96a5f41.ttf",
-    "static/media/background.svg": "/static/media/background.b848d10fc167cd755a91.svg",
-    "static/media/rocket.png": "/static/media/rocket.45d4c37e65f51f6fbb80.png",
-    "index.html": "/index.html",
-    "main.91a98778.css.map": "/static/css/main.91a98778.css.map",
-    "main.58a24e67.js.map": "/static/js/main.58a24e67.js.map"
+    "main.css": "/DuetoProject/static/css/main.66e2f47b.css",
+    "main.js": "/DuetoProject/static/js/main.c353ae08.js",
+    "static/media/hero.png": "/DuetoProject/static/media/hero.a0f437e521766a5f98f2.png",
+    "static/media/Pattaya-Regular.ttf": "/DuetoProject/static/media/Pattaya-Regular.5f92ed08a11ef96a5f41.ttf",
+    "static/media/background.svg": "/DuetoProject/static/media/background.b848d10fc167cd755a91.svg",
+    "static/media/rocket.png": "/DuetoProject/static/media/rocket.45d4c37e65f51f6fbb80.png",
+    "index.html": "/DuetoProject/index.html",
+    "main.66e2f47b.css.map": "/DuetoProject/static/css/main.66e2f47b.css.map",
+    "main.c353ae08.js.map": "/DuetoProject/static/js/main.c353ae08.js.map"
   },
   "entrypoints": [
-    "static/css/main.91a98778.css",
-    "static/js/main.58a24e67.js"
+    "static/css/main.66e2f47b.css",
+    "static/js/main.c353ae08.js"
   ]
 }
