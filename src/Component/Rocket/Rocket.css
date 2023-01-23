@@ -1,0 +1,34 @@
+.rocket-container {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+}
+
+.img-rocket-container {
+    display: grid;
+    place-items: center;
+}
+
+.rocket-img{
+    width: 120px;
+    animation-name: rocket-rotate;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    transition: all 1s;
+    height: 100%;
+}
+
+@keyframes rocket-rotate {
+    0% {
+        transform: rotate(-5deg);
+    }
+
+    50% {
+        transform: rotate(5deg);
+    }
+
+    100% {
+        transform: rotate(-5deg);
+    }
+}

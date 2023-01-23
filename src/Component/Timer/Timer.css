@@ -1,0 +1,36 @@
+.timer-container {
+
+}
+
+.title-timer {
+    font-size: var(--text-font-size);
+    color: var(--text-color);
+}
+
+.clock-continaer {
+    font-size: var(--title-font-size);
+    color: var(--text-color);
+    margin-block: var(--space-elements);
+}
+
+.clock {
+    background-color: #4c5881;
+    padding: 0.6rem;
+    border-radius: 30px;
+    margin-inline: 0.3rem;
+}
+
+.reset-timer-btn {
+    background-color: #ee1b24;
+    border-radius: 7px;
+    padding: 0.5rem 5rem;
+    font-size: var(--text-font-size);
+    font-family: 'Pattaya';
+    color: var(--text-color);
+    transition: all 250ms;
+    cursor: pointer;
+}
+
+.reset-timer-btn:hover {
+    background-color: #961015;
+}

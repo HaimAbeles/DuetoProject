@@ -1,0 +1,15 @@
+.msg-title {
+    font-size: var(--title-font-size);
+    color: var(--title-color);
+}
+
+.msg-text {
+    font-size: var(--text-font-size);
+    color: var(--text-color);
+}
+
+@media screen and (min-width:950px) {
+    .msg-mars {
+        margin-inline: var(--space-elements);
+    }
+}
