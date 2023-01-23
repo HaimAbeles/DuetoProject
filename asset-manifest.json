@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91a98778.css",
+    "main.js": "/static/js/main.58a24e67.js",
+    "static/media/hero.png": "/static/media/hero.a0f437e521766a5f98f2.png",
+    "static/media/Pattaya-Regular.ttf": "/static/media/Pattaya-Regular.5f92ed08a11ef96a5f41.ttf",
+    "static/media/background.svg": "/static/media/background.b848d10fc167cd755a91.svg",
+    "static/media/rocket.png": "/static/media/rocket.45d4c37e65f51f6fbb80.png",
+    "index.html": "/index.html",
+    "main.91a98778.css.map": "/static/css/main.91a98778.css.map",
+    "main.58a24e67.js.map": "/static/js/main.58a24e67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a98778.css",
+    "static/js/main.58a24e67.js"
+  ]
+}
