@@ -1,5 +1,6 @@
 {
-  "name": "dueto",
+  "name": "DuetoProject",
+  "homepage": "https://haimabeles.github.io/DuetoProject/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
